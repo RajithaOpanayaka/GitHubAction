@@ -1,2 +1,2 @@
 # GitHubAction
-CI/CD using Git Hub Actions
+CI/CD using GitHub Actions
